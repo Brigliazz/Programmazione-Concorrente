@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsyncParallelDemo.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78dd7945ba2afd1263f1468eb299fa6650d81351")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+999adf505ad7b725754593e7c51e036a918620c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsyncParallelDemo.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsyncParallelDemo.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

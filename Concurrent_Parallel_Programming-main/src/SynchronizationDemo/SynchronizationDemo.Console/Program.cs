@@ -1,9 +1,11 @@
 ﻿using SynchronizationDemo.Domain;
 
-
 var semaforo = new SemaphoreExperiment();
 
 bool termina = false;
+
+var producerConsumer = new ProducerConsumerExperiment();
+
 
 while (!termina)
 {
@@ -20,6 +22,7 @@ while (!termina)
             break;
 
         case "2":
+            producerConsumer.run();
             break;
 
         case "3":

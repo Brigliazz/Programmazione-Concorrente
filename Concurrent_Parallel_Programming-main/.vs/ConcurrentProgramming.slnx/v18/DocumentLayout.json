@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DCD95C3-4D10-4492-6D74-3517D7311B78}|src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj|c:\\users\\filippo.brigliadori\\downloads\\concurrent_parallel_programming-main\\concurrent_parallel_programming-main\\src\\synchronizationdemo\\synchronizationdemo.domain\\semaphoreexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCD95C3-4D10-4492-6D74-3517D7311B78}|src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj|solutionrelative:src\\synchronizationdemo\\synchronizationdemo.domain\\semaphoreexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DCD95C3-4D10-4492-6D74-3517D7311B78}|src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj|c:\\users\\filippo.brigliadori\\downloads\\concurrent_parallel_programming-main\\concurrent_parallel_programming-main\\src\\synchronizationdemo\\synchronizationdemo.domain\\producerconsumerexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCD95C3-4D10-4492-6D74-3517D7311B78}|src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj|solutionrelative:src\\synchronizationdemo\\synchronizationdemo.domain\\producerconsumerexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63D95E9B-E8BB-FF60-661A-8C8194E1D77D}|src\\SynchronizationDemo\\SynchronizationDemo.Console\\SynchronizationDemo.Console.csproj|c:\\users\\filippo.brigliadori\\downloads\\concurrent_parallel_programming-main\\concurrent_parallel_programming-main\\src\\synchronizationdemo\\synchronizationdemo.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63D95E9B-E8BB-FF60-661A-8C8194E1D77D}|src\\SynchronizationDemo\\SynchronizationDemo.Console\\SynchronizationDemo.Console.csproj|solutionrelative:src\\synchronizationdemo\\synchronizationdemo.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B93940-F1FD-75CB-BF0B-A012BFDE8920}|src\\ThreadDemo\\ThreadDemo.Domain\\ThreadDemo.Domain.csproj|c:\\users\\filippo.brigliadori\\downloads\\concurrent_parallel_programming-main\\concurrent_parallel_programming-main\\src\\threaddemo\\threaddemo.domain\\threadexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B93940-F1FD-75CB-BF0B-A012BFDE8920}|src\\ThreadDemo\\ThreadDemo.Domain\\ThreadDemo.Domain.csproj|solutionrelative:src\\threaddemo\\threaddemo.domain\\threadexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DCD95C3-4D10-4492-6D74-3517D7311B78}|src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj|c:\\users\\filippo.brigliadori\\downloads\\concurrent_parallel_programming-main\\concurrent_parallel_programming-main\\src\\synchronizationdemo\\synchronizationdemo.domain\\semaphoreexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCD95C3-4D10-4492-6D74-3517D7311B78}|src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj|solutionrelative:src\\synchronizationdemo\\synchronizationdemo.domain\\semaphoreexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProducerConsumerExperiment.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\ProducerConsumerExperiment.cs",
+              "RelativeDocumentMoniker": "src\\SynchronizationDemo\\SynchronizationDemo.Domain\\ProducerConsumerExperiment.cs",
+              "ToolTip": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\ProducerConsumerExperiment.cs",
+              "RelativeToolTip": "src\\SynchronizationDemo\\SynchronizationDemo.Domain\\ProducerConsumerExperiment.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:43:45.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SemaphoreExperiment.cs",
               "DocumentMoniker": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
               "RelativeDocumentMoniker": "src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
               "ToolTip": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
               "RelativeToolTip": "src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T11:13:39.2Z",
               "EditorCaption": ""
@@ -45,22 +62,9 @@
               "RelativeDocumentMoniker": "src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
               "ToolTip": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
               "RelativeToolTip": "src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T11:11:06.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ThreadExperiment.cs",
-              "DocumentMoniker": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiment.cs",
-              "RelativeDocumentMoniker": "src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiment.cs",
-              "ToolTip": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiment.cs",
-              "RelativeToolTip": "src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiment.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T11:11:47.181Z",
               "EditorCaption": ""
             }
           ]

@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
               "ToolTip": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
               "RelativeToolTip": "src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T11:13:39.2Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
               "ToolTip": "C:\\Users\\filippo.brigliadori\\Downloads\\Concurrent_Parallel_Programming-main\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
               "RelativeToolTip": "src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T11:11:06.152Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiment.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T11:11:47.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T11:11:47.181Z"
             }
           ]
         }
